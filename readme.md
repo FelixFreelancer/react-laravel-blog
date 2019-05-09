@@ -1,5 +1,6 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
-<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></p>
+<p align="center"><img style="width:240px, height:64px"
+                       src="https://s3-us-west-2.amazonaws.com/cosmicjs/9c2d95d0-27b0-11e7-b6ae-8108cf4caa96-react.svg"></p>
 
 ## Laravel 5.6 and React 16 Blog Project
 
